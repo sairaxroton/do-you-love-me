@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     yesBtn.addEventListener('click', () => {
         question.classList.add('hidden');
         optionsDiv.classList.add('hidden');
-        message.innerHTML = "একসেপ্ট করার জন্য থ্যাংকস, I love you too";
+        message.innerHTML = "একসেপ্ট করার জন্য তোমার কাছে আমাকে দিয়ে দিলাম, I love you too🥹✨";
         message.classList.remove('hidden');
     });
 
